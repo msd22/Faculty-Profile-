@@ -1,1 +1,6 @@
 # Faculty-Profile-
+# Mahesh singh danu     
+![FACULTY PICTURE]  
+### SCHOOL OF ALLIED HEALTH SCIENCES  
+**DESIGNATION** - ASSISTANT PROFESSOR  
+![MY CV](
