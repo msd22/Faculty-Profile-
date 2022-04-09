@@ -68,9 +68,7 @@ Phone: +919899042780  E-mail: **maheshdanu32@gmail.com**
 
 **Organization  **           MGM Medical College, Navi Mumbai
 
-**Title                        	**Comparison of WIDAL test with Immunochromatography test    	                                
-
-                                	and Enzyme Immunoassay test for Salmonella Typhi IgM and IgG Antibodies.           
+**Title                        	**Comparison of WIDAL test with Immunochromatography test and Enzyme Immunoassay test for Salmonella Typhi IgM and IgG Antibodies.           
 
 **Duration**                  	Jan 2012-Jan 2013
 
