@@ -240,7 +240,7 @@ Department of Microbiology
 
 American University of Antigua
 
-E-mail:**chitrapai67@gmail.com**
+E-mail:**chitrapai67@gmail.com**)
 
  
 
