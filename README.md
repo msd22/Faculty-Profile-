@@ -4,10 +4,7 @@
 ![FACULTY](https://github.com/msd22/Faculty-Profile-/blob/main/mahesh_data/CANDIDATE%20PHOTOGRAPH.JPG)
 ### SCHOOL OF ALLIED HEALTH SCIENCES  
 **DESIGNATION** - ASSISTANT PROFESSOR  
-![MY CV](
-** MAHESH SINGH DANU**
-
- 
+![MY CV](** MAHESH SINGH DANU**)
 
 Phone: +919899042780  E-mail: **maheshdanu32@gmail.com**
 
@@ -36,8 +33,8 @@ Phone: +919899042780  E-mail: **maheshdanu32@gmail.com**
 **_                                                                        	Abstract_**
 
  
-
-**Currently **working as Assistant professor & Head School of Allied Health Sciences in MVN UNIVERSITY from June 2018 to till date.
+** **
+**Currently ** working as Assistant professor & Head School of Allied Health Sciences in MVN UNIVERSITY from June 2018 to till date.
 
 ** **
 
